@@ -47,7 +47,8 @@ The repository is intended to grow and may include collections on:
 Contributions are welcome.
 
 If you find:
-- typing errors,
+- typesetting errors,
+- translation or grammatical mistakes,
 - formatting issues,
 - incorrect statements,
 - repeated problems
